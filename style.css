@@ -1,0 +1,32 @@
+
+.main{
+    background-color: rgb(24, 29, 107);
+}
+
+
+#titulo{
+    color: rgb(245, 244, 249);
+    font-size:72px ;
+}
+
+#subtitulo{
+    color: rgb(0, 149, 255);
+    font-size: 32px;
+}
+
+.stMarkdown{
+    color: rgb(144, 226, 215);
+    font-family: sans-serif;
+    font: helvetica;
+    font-style: oblique;
+}
+
+.stButton > button{
+    background-color: rgb(81, 146, 225);
+    color: white;
+}
+
+.stButton:hover > button{
+    background-color: rgb(237, 85, 10);
+    color: rgb(255, 255, 255);
+}
