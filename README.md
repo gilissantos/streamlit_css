@@ -1,4 +1,4 @@
-<h3>>Aplicando estilo com CSS no Streamlit do Python</h3>>
+#### Aplicando estilo com CSS no Streamlit do Python
 
 <p>Por padrão a bliblioteca Streamlit tem uma padrão CSS, mas podemos alterar de diversas maneiras.</p>
 
@@ -8,9 +8,9 @@
 
 **Ao realizar o clone deste projeto, siga os passos abaixo:**
 
-<a>Instalar o Python caso não tenha em sua máquina</a>
-<a>Criar um ambiente virtual com o Python</a>
-<a>No ambiente virtual instale a biblioteca Stremalit</a>
-<a>Na pasta do ambiente virtual crie dois arquivos: style.css e index.py</a>
+*Instalar o Python caso não tenha em sua máquina
+*Criar um ambiente virtual com o Python
+*No ambiente virtual instale a biblioteca Stremalit
+*Na pasta do ambiente virtual crie dois arquivos: style.css e index.py
 
 <p>Bons estudos e ótimos projetos!!!</p>
