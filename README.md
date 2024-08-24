@@ -8,9 +8,9 @@
 
 **Ao realizar o clone deste projeto, siga os passos abaixo:**
 
-*Instalar o Python caso não tenha em sua máquina
-*Criar um ambiente virtual com o Python
-*No ambiente virtual instale a biblioteca Stremalit
-*Na pasta do ambiente virtual crie dois arquivos: style.css e index.py
+* Instalar o Python caso não tenha em sua máquina
+* Criar um ambiente virtual com o Python
+* No ambiente virtual instale a biblioteca Stremalit
+* Na pasta do ambiente virtual crie dois arquivos: style.css e index.py
 
 <p>Bons estudos e ótimos projetos!!!</p>
